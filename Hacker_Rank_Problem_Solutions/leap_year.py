@@ -1,4 +1,4 @@
-#!/bin/usr/env python3\
+#!/usr/bin/env python3\
 
 year = int(input("Enter Year:"))
 def find_leap(year):

@@ -1,6 +1,7 @@
 # Python Practice
 
 This repository contains a collection of Python programs for practice.
+I Will Upload Here Regularly New Programs What i practiced
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/obitorin07/Python-For-Beginners.git

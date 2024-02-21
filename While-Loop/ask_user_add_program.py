@@ -11,6 +11,8 @@ adding numbers until they
 do not answer “y”. Once the 
 loop has stopped, display 
 the total. """
+
+
 no1 =int(input("Enter The First Number:"))
 total =no1
 again ='yes'
@@ -18,4 +20,4 @@ while again =='yes':
     no2 =int(input("Enter The 2nd Number:"))
     total +=no2
     again = input("Do U want to add again ? (yes/no)").lower()
-print("The Addition of {} {} = {}".format(no1,no2,total))
+print("The Total is =",total)

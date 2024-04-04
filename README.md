@@ -12,7 +12,7 @@ I Will Upload Here Regularly New Programs What i practiced
 Feel free to explore, learn, and use these programs for your Python practice.
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute, feel free to add your practice code.
+Contributions are welcome! If you'd like to contribute and send me a message on twitter, feel free to add your practice code.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+No Restriction For Edit Or Any kinds of experiments Purposes Feel free And Do Whatever You want #Just Learn .

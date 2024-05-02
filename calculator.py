@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #this is shebang or hashbang
-#❤️Obito Love Rin❤️
+
 
 
 class calculator:

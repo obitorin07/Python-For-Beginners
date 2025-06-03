@@ -1,0 +1,243 @@
+Python-For-Beginners
+├── .git
+│   ├── COMMIT_EDITMSG
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── config
+│   ├── description
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── master
+│   │       └── remotes
+│   │           └── origin
+│   │               ├── HEAD
+│   │               └── master
+│   ├── objects
+│   │   ├── 1f
+│   │   │   └── 7d81db82991e5b9be98aeba6f73123faad0d13
+│   │   ├── 53
+│   │   │   └── d770a23154fb8ca6b1aa073b962950d2c304c0
+│   │   ├── d5
+│   │   │   └── d54b4c3659333c90eb87189d0d48396140f444
+│   │   ├── f9
+│   │   │   └── e418ca93a1dd9f449f543be2004d52224114a4
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-069e30040404e1e7dcca7dc38e338dd739d33aae.idx
+│   │       ├── pack-069e30040404e1e7dcca7dc38e338dd739d33aae.pack
+│   │       └── pack-069e30040404e1e7dcca7dc38e338dd739d33aae.rev
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── master
+│       ├── remotes
+│       │   └── origin
+│       │       ├── HEAD
+│       │       └── master
+│       └── tags
+├── .gitignore
+├── Automation_Code
+│   └── extract_files_organize.ipynb
+├── Basics
+│   ├── Average.ipynb
+│   ├── Even_Odd.ipynb
+│   ├── addition.py
+│   ├── addition_program.ipynb
+│   ├── ask_3numbers.py
+│   ├── ask_details.py
+│   ├── bill_devide.py
+│   ├── display_next_birthday.py
+│   ├── find_largest_number.ipynb
+│   ├── find_smallest_number.ipynb
+│   ├── kiligram_to_pounds.py
+│   ├── len().py
+│   ├── pizza_slice_left.py
+│   ├── print_day_hour_seconds.py
+│   ├── print_hello.py
+│   └── smaller_larger.py
+├── Chat Gpt Questions To solve to  Check level
+│   ├── book_reading.py
+│   ├── question1.py
+│   ├── question2.py
+│   ├── question3.py
+│   ├── question4.py
+│   └── question5.py
+├── Day1 to Day20 Beginner To Advanced Python
+│   ├── DAY6_string.ipynb
+│   ├── DAY7_conditional_statement.ipynb
+│   ├── DAY9_Enumerates_and_while_loop.ipynb
+│   ├── Day12_built_in_func_lamda_sort_map.ipynb
+│   ├── Day13_reduce_size_iterators_GENERATORS.ipynb
+│   ├── Day14_File_handling_Exceptional_Handling.ipynb
+│   ├── Day15Class_Object_MultiThread.ipynb
+│   ├── Day16_Day17_Regular_expressionsipynb.ipynb
+│   ├── Day16_Regular_expressionsipynb(1).ipynb
+│   ├── Day18_Numpy_Array.ipynb
+│   ├── Day19_Pandas.ipynb
+│   ├── Day20_Pandas.ipynb
+│   ├── Day8Loop.ipynb
+│   ├── Untitled-1.py
+│   ├── day10_functions.ipynb
+│   ├── day11_functions_Global_local_comprehensions_Zip.ipynb
+│   ├── day1_Basics.ipynb
+│   ├── day1_internship.ipynb
+│   ├── day2_python.ipynb
+│   ├── day3_dataTypes.ipynb
+│   ├── day4_tuplesAnd_sets.ipynb
+│   └── day5_dict_strings.ipynb
+├── Exceptional_handling
+│   ├── first_program.py
+│   └── second_program.py
+├── FIle Handling
+│   ├── CSV practice2
+│   │   ├── csv_file_read_write.ipynb
+│   │   ├── csv_read_write.csv
+│   │   └── employee_data.csv
+│   ├── Open-and-Read-Files
+│   │   ├── open_file1
+│   │   │   ├── open_fiiles.py
+│   │   │   └── open_files.txt
+│   │   └── open_file2
+│   │       ├── flask.py
+│   │       └── flask.txt
+│   ├── csv file
+│   │   ├── Obito_rin.csv
+│   │   ├── append_csv.py
+│   │   ├── practice3
+│   │   │   ├── csv_write.ipynb
+│   │   │   └── data.csv
+│   │   ├── read_csv.py
+│   │   └── write_csv.py
+│   ├── practice1
+│   │   ├── add_visitors.py
+│   │   ├── remove_visitors.py
+│   │   ├── remove_visitors.txt
+│   │   ├── visitors.py
+│   │   ├── visitors.txt
+│   │   └── visitors2.py
+│   └── practice2
+│       ├── add_people.py
+│       ├── add_people.txt
+│       ├── remove_people.py
+│       └── removed_people.py
+├── For Loop
+│   ├── ask_number_below_50.py
+│   ├── ask_user_enter5_number.py
+│   ├── ask_user_enter_name.py
+│   ├── book_reading.py
+│   ├── display_name.py
+│   ├── display_name_one_by_one.py
+│   ├── display_name_string.py
+│   ├── display_name_users_choice.py
+│   ├── first_loop.py
+│   ├── for_loop_arithmetic.ipynb
+│   ├── invite_user_party.py
+│   ├── pattern_square.py
+│   ├── table_1-12.py
+│   └── up_down.py
+├── Functions
+│   ├── Functions.ipynb
+│   ├── calculate_average_using_function_in2methods.ipynb
+│   ├── calculate_paint_for_wall.ipynb
+│   ├── calculator_using_class.ipynb
+│   └── pi_value.ipynb
+├── Hacker_Rank_Problem_Solutions
+│   ├── leap_year.py
+│   ├── list_comprehension.py
+│   ├── print_function.py
+│   └── print_square.py
+├── If Statements
+│   ├── askRain_or_Winds.py
+│   ├── ask_usernumber.py
+│   ├── between_numbers.py
+│   ├── check_age.py
+│   ├── checking_laggage_weight_in_airport.py
+│   ├── compare2numbers.py
+│   ├── fav_color_red.py
+│   ├── plane_landing.py
+│   ├── plane_landing_new_situation.py
+│   ├── too_high_entererd_value.py
+│   └── train_discount_based_on_ageGender_fare.py
+├── List Comprehesions
+│   ├── first.py
+│   └── square.py
+├── Maths_Module
+│   ├── display_pi.py
+│   ├── multiply.py
+│   └── update_mutliply.py
+├── Python For Data Analytics
+│   ├── Numpy_Practice.ipynb
+│   └── Pandas
+│       ├── Data_Analysis_Basic.ipynb
+│       ├── Data_Grouping_Aggregation.ipynb
+│       ├── Filtering_Selecting.ipynb
+│       ├── Filtering_Sorting.ipynb
+│       ├── Handling_Missing_Values.ipynb
+│       ├── Joining and merging inner outer left right joins .py
+│       ├── Joining_Merging.ipynb
+│       ├── Sales_Analysis2.ipynb
+│       ├── Sales_Basic_Analysis.ipynb
+│       ├── assignments
+│       │   ├── First_Second_Business_MomentsEDA.ipynb
+│       │   ├── Pandas_Assignment1.ipynb
+│       │   ├── assignment2_fillingNA_Values_Change_dtypes_normalization.ipynb
+│       │   ├── laptop_data_assignment_dataCleaning.ipynb
+│       │   └── pandas practice_assignment2.ipynb
+│       └── customer_sales_analysis.ipynb
+├── README.md
+├── Random_Module
+│   └── roulette_number_pickers.py
+├── Strings
+│   ├── ask_fname_lname_using_if.py
+│   ├── convert_one_case_another.py
+│   ├── first_last_len.py
+│   ├── index_value_find_first_last.py
+│   ├── lower_title.py
+│   ├── name_len.py
+│   ├── string_fornate_all_in_one_program.py
+│   ├── swapcase.py
+│   ├── title_in_str.py
+│   └── vowels_using_if_condition.py
+├── Using Python Extract Zip FIle.ipynb
+├── While-Loop
+│   ├── ask_user_add_program.py
+│   ├── ask_user_enter_number_over10.py
+│   ├── counter_program.py
+│   ├── generate_ticket_numbers.py
+│   ├── guess_number.py
+│   ├── invite_party.py
+│   ├── pickup_baggage.py
+│   ├── set_total_stop.py
+│   └── while_factorial.ipynb
+├── calculator.py
+├── file_structure.py
+├── list
+│   ├── create_list.py
+│   ├── in_list_add_plus1.ipynb
+│   ├── python_list_manipulation_assignment.ipynb
+│   ├── python_list_manipulation_assignment.py
+│   ├── python_list_manipulation_assignment2.py
+│   └── separate_integers_strings.ipynb
+├── password_generator.py
+├── structure.txt
+└── swap_two_no.py

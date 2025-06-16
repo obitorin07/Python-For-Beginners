@@ -5,4 +5,4 @@ while True :
     if user_message.isalpha():
         print(f" You entered message is {user_message} ")
     else:
-        print("Entered value is not characters")g
+        print("Entered value is not characters")

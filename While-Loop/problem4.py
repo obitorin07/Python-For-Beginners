@@ -64,12 +64,36 @@ while condition :
                             deposit_amount = input("Please enter the amount :").strip()
                             if deposit_amount.isdigit():
                                 deposit_amount = float(deposit_amount)
-                                deposit_amount+=user_balance
+                                user_balance += deposit_amount
+
                             else:
                                 print("please enter the valid amount or may be something wrong")
+                        elif user_input == 3:
+                            print(inside_profile_greeting)
+                            withdraw_amount = input("How much you want to withdraw amount :").strip()
+                            if withdraw_amount.isdigit():
+                                withdraw_amount = int(withdraw_amount)
+                                if withdraw_amount < 0:
+                                    print("print please enter valid amount :")
+                                elif withdraw_amount <= user_balance :
+                                    user_balance -= withdraw_amount
+                                    print(f"Withdraw {withdraw_amount} Done Take out your money thank you for visiting :)")
+
+                                else:
+                                    print("May be Insufficient balance cant withdraw or Something else")
+                            else:
+                                print("please enter amount in digits")
+                        elif user_input == 4:
+                            # condition = False
+                            # break
+                            exit()
+
                     else:
                         print("please choose numbers from given menu :")
-            attempt += 1
+
+            else:
+                attempt += 1
+                print("Incorrect Password")
 
     else:
         print("Please enter valid user id")
